@@ -1,0 +1,19 @@
+h1 {
+  color: black;
+  text-decoration: none;
+}
+h3 {
+  background-color: #aaa;
+  border: solid 5px #111;
+  width: 150px;
+  height: 80px;
+  padding: 40px;
+}
+
+body {
+  writing-mode: horizontal-tb;
+}
+
+img {
+  max-width: 500px;
+}

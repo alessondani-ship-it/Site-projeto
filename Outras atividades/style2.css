@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  font-style: Arial;
+}
+h2 {
+  background-color: #000;
+  border-radius: 4px;
+  margin: 50px;
+  padding: 30px;
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+
+span {
+  color: #febe01;
+}
+
+button {
+  background-color: #febe01;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.nomeproduto {
+  color: #fff;
+}
+
+.descricao {
+  color: #b2b2b2;
+}

@@ -1,0 +1,19 @@
+.hoje {
+  color: blue;
+}
+.amanhã {
+  color: red;
+}
+
+.fontemaior {
+  font-size: 40px;
+}
+
+.sublinhado {
+  text-decoration: none;
+  color: seagreen;
+}
+
+html {
+  font-family: "Times New Roman", Times, serif;
+}
